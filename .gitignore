@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.matplotlib/
+data_raw/
+audio/
+Dataset/
+*.npz
+*.npy
+*.mat
+*.pt
+*.pdf
