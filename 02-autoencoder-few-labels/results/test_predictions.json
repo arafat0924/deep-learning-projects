@@ -1,0 +1,722 @@
+[
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0209.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5527387261390686
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0707.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.34464895725250244
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0019.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7336011528968811
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0022.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5113081932067871
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0096.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5367637276649475
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0558.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.17853625118732452
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0323.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.654547929763794
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0158.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7432889938354492
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0073.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5510936975479126
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0050.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9365260601043701
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0582.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.10837583988904953
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0302.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3270196318626404
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0730.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.2861887216567993
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0269.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3547995984554291
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0204.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7387219071388245
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0123.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.27549004554748535
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0125.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.1630716174840927
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0477.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4120180010795593
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0149.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.25449177622795105
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0080.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.21306593716144562
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0113.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8435987830162048
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0720.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3064119815826416
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0824.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7621338963508606
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0517.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.053448665887117386
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0422.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7573085427284241
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0021.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9002941846847534
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0257.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.20638273656368256
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0513.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.20367254316806793
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0153.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.830513060092926
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0167.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7580486536026001
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0063.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.24978671967983246
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0255.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9659448266029358
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0018.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9754744172096252
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0258.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.6488131880760193
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0325.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.10683447122573853
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0037.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.1339539885520935
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0043.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.712553083896637
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0356.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.1316334307193756
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0208.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.6996361017227173
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0096.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.37905821204185486
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0176.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4984073340892792
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0222.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3576015532016754
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0169.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8176096677780151
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0410.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9438512325286865
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0431.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8227748870849609
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0437.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.39581459760665894
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0884.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8551350235939026
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0108.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.46973955631256104
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0357.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.483630508184433
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0068.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.10371129959821701
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0212.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7506266832351685
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0152.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8440119624137878
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0027.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3604990839958191
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0315.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.26781564950942993
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0072.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4754965305328369
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0506.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7484061121940613
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0263.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9961341619491577
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0337.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.568149983882904
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0292.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.13274574279785156
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0845.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.40781083703041077
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0137.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.40292349457740784
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0138.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7624333500862122
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0392.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9694125652313232
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0750.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.05953427776694298
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0212.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8237099051475525
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0649.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.16978766024112701
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0070.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7008198499679565
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0007.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.2624852955341339
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0271.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5461969971656799
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0682.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.12648358941078186
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0265.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5080540776252747
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0520.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.413105845451355
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0849.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5405163168907166
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0385.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9092183709144592
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0757.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.1594826728105545
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0093.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7688198089599609
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0008.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.17225928604602814
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0002.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4570292830467224
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0031.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5578997135162354
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0138.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.6034151315689087
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0401.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.790845513343811
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0311.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.720090389251709
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0146.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.838429868221283
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0404.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5527110695838928
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0223.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8969312906265259
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0355.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.07219333946704865
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0264.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.17673417925834656
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0156.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9449338912963867
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0594.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.6092371940612793
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0423.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3697868585586548
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0049.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.22856739163398743
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0584.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.632529616355896
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0526.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.26648226380348206
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0827.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.06966333091259003
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0367.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.372968465089798
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0218.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.11230725049972534
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0863.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8653823733329773
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0260.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4765802323818207
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0199.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.12719006836414337
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0727.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.2603646516799927
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0111.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.07876647263765335
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0492.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.9056113362312317
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0235.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7280740141868591
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0447.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.16963626444339752
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0809.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8064461946487427
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0791.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5389241576194763
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0724.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.13000500202178955
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0786.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.09437514841556549
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0282.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8563268780708313
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0124.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.4046989977359772
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0230.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.21750882267951965
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0227.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.43519869446754456
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0604.jpg",
+    "actual": "Jaguar",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.5669270157814026
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0409.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.23141838610172272
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0349.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.26368632912635803
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0251.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.716118574142456
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0057.jpg",
+    "actual": "Tiger",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.20343145728111267
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0343.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.7002654671669006
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Tiger\\0132.jpg",
+    "actual": "Tiger",
+    "predicted": "Tiger",
+    "probability_Tiger": 0.8855219483375549
+  },
+  {
+    "file": "E:\\Deep Learning Assignment\\animal_dataset_extracted\\Dataset\\train\\Jaguar\\0215.jpg",
+    "actual": "Jaguar",
+    "predicted": "Jaguar",
+    "probability_Tiger": 0.3438618779182434
+  }
+]

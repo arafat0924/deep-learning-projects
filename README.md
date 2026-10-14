@@ -6,6 +6,7 @@ use backprop written by hand in NumPy, no autodiff.
 | Project | What it does | Built with |
 |---|---|---|
 | [Digit to speech](01-digits-to-speech) | MNIST digit image in, spoken-digit waveform out (2,983 samples). 5-layer MLP, hand-written backprop | NumPy, MATLAB |
+| [Autoencoder with few labels](02-autoencoder-few-labels) | Does autoencoder pretraining help when only 10% of images are labeled? Jaguar vs Tiger | PyTorch |
 
 Datasets and trained weights aren't included because they're too big. Each
 project's README links to the data and shows how to run it.
