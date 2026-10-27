@@ -1,0 +1,71 @@
+{
+  "config": {
+    "hidden": [
+      8,
+      16,
+      32
+    ],
+    "l2": [
+      0.0001,
+      0.001,
+      0.003
+    ],
+    "lr": 0.5,
+    "epochs": 1500,
+    "batch": 4,
+    "seed": 0,
+    "output": "results/model_selection.json"
+  },
+  "grid": [
+    {
+      "hidden": 8,
+      "l2": 0.0001,
+      "loo_seq_acc": 0.3
+    },
+    {
+      "hidden": 8,
+      "l2": 0.001,
+      "loo_seq_acc": 0.4
+    },
+    {
+      "hidden": 8,
+      "l2": 0.003,
+      "loo_seq_acc": 0.6
+    },
+    {
+      "hidden": 16,
+      "l2": 0.0001,
+      "loo_seq_acc": 0.45
+    },
+    {
+      "hidden": 16,
+      "l2": 0.001,
+      "loo_seq_acc": 0.75
+    },
+    {
+      "hidden": 16,
+      "l2": 0.003,
+      "loo_seq_acc": 0.8
+    },
+    {
+      "hidden": 32,
+      "l2": 0.0001,
+      "loo_seq_acc": 0.85
+    },
+    {
+      "hidden": 32,
+      "l2": 0.001,
+      "loo_seq_acc": 0.95
+    },
+    {
+      "hidden": 32,
+      "l2": 0.003,
+      "loo_seq_acc": 0.85
+    }
+  ],
+  "selected": {
+    "hidden": 32,
+    "l2": 0.001,
+    "loo_seq_acc": 0.95
+  }
+}
