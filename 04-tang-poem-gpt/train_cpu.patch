@@ -1,0 +1,22 @@
+diff --git a/src/train.py b/src/train.py
+index 5b1a506..edd286f 100644
+--- a/src/train.py
++++ b/src/train.py
+@@ -9,7 +9,7 @@ from data_preparation import prepare_data
+ 
+ # ============ Hyperparameters =============
+ # data
+-batch_size = 64
++batch_size = 4
+ context_size = 256
+ 
+ # model
+@@ -19,7 +19,7 @@ n_layer = 6
+ dropout = 0.2
+ 
+ # training
+-max_iters = 10000
++max_iters = 500
+ learning_rate = 3e-4
+ eval_interval = 500
+ 

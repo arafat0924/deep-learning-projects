@@ -1,0 +1,3 @@
+[submodule "04-tang-poem-gpt/tangshi-gpt"]
+	path = 04-tang-poem-gpt/tangshi-gpt
+	url = https://github.com/dengfeng-ai/tangshi-gpt.git
